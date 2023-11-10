@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="./style.css">
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css"
+        integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+    <title>Ashutosh Timilsina</title>
+</head>
+
+<body>
+    <!-- Navbar -->
+    <div class="container-fluid menu">
+        <div class="container">
+            <nav class="navbar navbar-expand-xl navbar navbar-dark bg-dark ">
+                <a class="navbar-brand" href="index.html">Ashutosh Timilsina</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse"
+                    data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                    aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav mr-auto ">
+                        <li class="nav-item">
+                            <a class="nav-link" href="index.html">Home </a>
+                        </li>
+                        <li class="nav-item active">
+                            <a class="nav-link" href="projects.html">Project<span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="publication.html">Publication</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="awards.html">Awards</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Services</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </div>
+    <!-- Body -->
+    <div class="container body-2">
+        <h3 class="headers">Involved Projects</h3>
+        <div class="container projects">
+            <div class="container">
+                <p class="topic">Wireless Power Transfer System via Strongly Coupled Magnetic Resonance &emsp;&emsp;
+                    2016</p>
+                <p>Undergraduate Research Project in a team of 4; Completed successfully under the supervision of Prof.
+                    Dr.
+                    Arbind Kumar Mishra;<br> Transferred electric power wirelessly over 1 m distance using magnetically
+                    coupled
+                    resonators; Authored and published a<br> thesis on the topic</p>
+            </div>
+            <div class="container">
+                <p class="topic">Cockcroft-Walton High Voltage Generator/Air Ionizer - Winner
+                    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2015</p>
+                <p>In a team of 3, developed a working prototype of Cockcroft-Walton Ladder Network and utilized it for
+                    air
+                    purifying purpose;<br> Winning project of LOCUS 2015 in Electrical Event category</p>
+            </div>
+            <div class="container">
+                <p class="topic">Tesla Coil - Participant &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; 2014</p>
+                <p>Collaborated with a team of 10 members to build Tesla Coil and participated in Electrical Event
+                    Category
+                    of LOCUS 2014;<br> One of the major attraction of LOCUS 2014</p>
+            </div>
+            <div class="container">
+                <p class="topic">Automatic Greenhouse - Participant &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; 2013</p>
+                <p>Microcontroller based Greenhouse System with automated temperature and humidity regulation;
+                    participated in LOCUS 2013 for<br> Theme-based Competition category; Worked in a team of 3.
+                </p>
+            </div>
+
+        </div>
+    </div>
+
+    <footer class="footer container-fluid menu">
+        <div class="container foot">
+            <div class="row">
+                <div class="col-sm-3">
+                    <img src="img/UK.png" class="logo">
+                </div>
+                <div class="col-sm-6 mid-foot">
+                    <div class="icon">
+                        <a href="https://www.facebook.com/ashutosh.timilsina"><i class="fab fa-facebook-f pr-1"></i></a>
+                        <a href="https://twitter.com/TmlsnaAshutosh"><i class="fab fa-twitter pr-1"></i></a>
+                        <a href="https://www.linkedin.com/in/ashutosh-timilsina-063672133/"><i class="fab fa-linkedin-in pr-1"></i></a>
+                        <a href="https://github.com/ashutoshtmlsna"><i class="fab fa-github pr-1"></i></a>
+                      </div>
+                    <div class="copyright">
+                        <p>Last Updated March 2020<br>© 2020 Ashutosh Timilsina</p>
+                    </div>
+                </div>
+
+                <div class="col-sm-3 left-foot">
+                    <p>Department of Computer Science<br>
+                        Davis Marksbury Building<br>
+                        329 Rose Street, Lexington, KY, USA, 40506</p>
+                </div>
+            </div>
+
+        </div>
+    </footer>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>

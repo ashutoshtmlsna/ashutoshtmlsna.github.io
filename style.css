@@ -1,0 +1,134 @@
+/* CSS Document */
+*{
+	font-family:proxima-nova, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+body {
+    font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+h1, h2, h3, h4, h5, h6, p{
+    font-family: "adobe-caslon-pro", serif;
+}
+.bg-primary {
+    background-color: #0033a0!important;
+}
+.menu{
+	background-color: #343a40!important;
+	
+}
+#navbarSupportedContent{
+	padding-left: 500px;
+}
+.navbar-brand{
+	text-align: center;
+}
+.body-1{
+	background: #efefef;
+	height: auto;
+}
+.img{
+	height: 321px;
+	max-width: 302px;
+	padding: 20px 20px 20px 20px;
+}
+.intro{
+	padding-left: 20px;
+}
+.name{
+	padding-top: 60px;
+	color:#0033a0;
+	font-size: 2.5em;
+	
+}
+
+.contact>h3{
+	font-size: 23px;
+}
+.intro-info{
+	font-size: 1.5em;
+    font-style: italic;
+    margin-bottom: 0;
+}
+.intro-research{
+	margin:1.5em 0 0;
+}
+.intro-list{
+	padding-left: 0;
+    list-style: none;
+	margin-left: -5px;
+	color: #0033a0;
+
+}
+.intro-list>li{
+	display: inline-block;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.body-2{
+	height: auto;
+}
+.contact{
+	padding: 20px 20px 20px 20px;
+	margin: 10px;
+}
+
+a{
+	color: #0033a0;
+}
+.mail, .office, .CV{
+	margin: 0.25em 0;
+
+}
+.bio{
+	padding: 20px;
+	height: auto;
+}
+.line{
+	margin: 1.5em 0;;
+}
+.footer{
+	height: auto;
+}
+.logo{
+	margin: 50px;
+	max-width: 150px;
+}
+.foot{
+	color: #efefef;
+}
+.mid-foot{
+	color: #efefef;
+	text-align: center;
+	padding-top: 60px;
+}
+.pr-1{
+	font-size: 50px;
+	padding-left: 30px;
+}
+.copyright{
+	padding-top: 45px;
+}
+.left-foot{
+	text-align: center;
+	padding-top: 60px;
+
+}
+
+.headers{
+	color:#0033a0;
+	font-size: 2.5em;
+	padding: 20px;
+}
+.projects{
+	padding: 10px 0px 0px 20px;
+}
+.projects .topic{
+	font-weight: bold;
+	font-size: x-large;
+}
+.fab{
+	color: #efefef;
+}
